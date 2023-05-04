@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    background: #111; 
+    text-align: center;
+}
+
+
+#background{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
